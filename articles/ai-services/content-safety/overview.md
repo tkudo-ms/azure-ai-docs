@@ -211,12 +211,13 @@ Content Safety features have query rate limits in requests-per-second (RPS) or r
 | F0    | 5 RPS    | 5 RPS   | 5 RPS    | N/A | 5 RPS | 5 RPS|5 RPS|
 | S0    | 1000 RP10S    | 1000 RP10S   | 1000 RP10S    | 50 RPS | 1000 RP10S | 5 RPS|10 RPS|
 
-If you need a faster rate, [contact us](mailto:contentsafetysupport@microsoft.com) to request it.
-
+If you need a higher quota or faster request rate, please submit an Azure Support request through the Azure portal.
 
 ## Contact us
 
-If you get stuck, [email us](mailto:contentsafetysupport@microsoft.com) or use the feedback widget at the bottom of any Microsoft Learn page.
+If you encounter an issue or need technical assistance, please create an Azure Support request through the Azure portal.
+
+The feedback widget at the bottom of pages can be used for documentation-related feedback only.
 
 ## Next steps
 
